@@ -4,7 +4,9 @@ from flask import Flask
 from threading import Thread
 
 # Bot Credentials
-TOKEN = "8931845974..."
+TOKEN = "8960828504:AAGqVVodgGcIJiF8Lk__E4JL1WFI7vDZ_1k"
+ADMIN_CHAT_ID = "8293715605"
+
 ADMIN_CHAT_ID = "8293715605"
 
 bot = telebot.TeleBot(TOKEN)
